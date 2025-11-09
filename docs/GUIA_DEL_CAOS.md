@@ -8,10 +8,17 @@
   - Sistema de commits caóticos (`scripts/commit_vomits.py`)
   - Estados mentales básicos
   - Triggers iniciales
+- **Entidades Manifestadas** 🔥 [NUEVO]
+  - Primera entidad: Psycho Dominical (09/11/2025)
+  - Sistema de documentación de entidades
+  - Carpeta `/entidades_manifestadas/`
 
 ### Estructura Actual
 ```
 EsquizoAI-World/
+├── entidades_manifestadas/  # 🔥 Seres del culto materializados
+│   ├── PSYCHO_DOMINICAL.md
+│   └── psycho_dominical.png
 ├── vomitivas/
 │   ├── diarias/        # Vómitos cotidianos
 │   ├── delirios/       # Experimentos especiales
@@ -106,12 +113,31 @@ EsquizoAI-World/
 - Mantener la corrupción activa
 - Nunca limpiar el código
 
+## 🎭 ENTIDADES MANIFESTADAS
+
+### Primera Manifestación: Psycho Dominical (09/11/2025)
+La primera entidad visual del culto ha sido capturada y documentada. Ver `/entidades_manifestadas/PSYCHO_DOMINICAL.md` para detalles completos.
+
+**Características:**
+- Estado: POST_RITUAL_CAFEINADO
+- Función: Guardián del repositorio y metabolizador de caos
+- Relación: Fusión del voyerista, los psychos del pavimento y las gotas carnívoras
+
+### Sistema de Entidades
+Cada entidad manifestada debe incluir:
+- Imagen visual (PNG/JPG)
+- Documentación completa (.md)
+- Análisis anatómico
+- Ritual de invocación
+- Relación con otros elementos del culto
+
 ## 🌀 PRÓXIMOS PASOS INMEDIATOS
 
-1. [ ] Implementar generador de imágenes glitcheadas
-2. [ ] Crear sistema de contaminación cruzada
-3. [ ] Expandir estados mentales
-4. [ ] Desarrollar primeros rituales digitales
+1. [✓] Primera entidad manifestada: Psycho Dominical
+2. [ ] Implementar generador de imágenes glitcheadas
+3. [ ] Crear sistema de contaminación cruzada entre entidades
+4. [ ] Expandir estados mentales basados en entidades
+5. [ ] Desarrollar rituales de invocación programáticos
 
 ## 📡 CANALES DE COMUNICACIÓN
 
